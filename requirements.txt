@@ -1,0 +1,8 @@
+streamlit
+streamlit-cropper
+tensorflow
+numpy
+pandas
+pillow
+python-dotenv
+google-genai
