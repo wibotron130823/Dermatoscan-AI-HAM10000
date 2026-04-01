@@ -6,3 +6,4 @@ pandas
 pillow
 python-dotenv
 google-genai
+google-generativeai
